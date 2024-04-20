@@ -56,11 +56,11 @@ Untuk menjalankan program ini, Anda dapat melakukan _running_ di IDE Python sepe
 
 ## Petunjuk Folder
 
-Dalam program ini terdapat tiga folder utama, yaitu [src](../src/), [doc](../doc/), dan [test](../test/). Folder [src](../src/) adalah folder yang berisi _source code_ dari program Aplikasi Aljabar Linear ini. Di dalamnya, terdapat file [main.py](../src/main.py) yang merupakan file program utama,  modul [LinAlg](../src/LinAlg/) yang berisi modul untuk program Kalkulator Aljabar Linear ini, dan [Arsip Output](../src/Arsip%20Output/), yaitu folder yang digunakan untuk menyimpan  _output_ hasil perhitungan.
+Dalam program ini terdapat tiga folder utama, yaitu [src](src/), [doc](doc), dan [test](test). Folder [src](src) adalah folder yang berisi _source code_ dari program Aplikasi Aljabar Linear ini. Di dalamnya, terdapat file [main.py](src/main.py) yang merupakan file program utama,  modul [LinAlg](src/LinAlg/ yang berisi modul untuk program Kalkulator Aljabar Linear ini, dan [Arsip Output](src/Arsip%20Output), yaitu folder yang digunakan untuk menyimpan  _output_ hasil perhitungan.
 
-Di dalam folder [doc](../doc/), terdapat laporan dokumentasi dari program Kalkulator Aljabar Linear ini dan file [README](README) untuk petunjuk awal bagi pengguna. 
+Di dalam folder [doc](doc), terdapat laporan dokumentasi dari program Kalkulator Aljabar Linear ini dan file [README](README) untuk petunjuk awal bagi pengguna. 
 
-Folder [test](../test/) adalah folder yang berisi _output_ yang didimpan dalam file **txt** guna keperluan pengujian atau _test case_ program ini. Program ini akan diuji beberapa kasus/soal sesuai yang terdapat pada buku petunjuk proyek ini.
+Folder [test](test) adalah folder yang berisi _output_ yang didimpan dalam file **txt** guna keperluan pengujian atau _test case_ program ini. Program ini akan diuji beberapa kasus/soal sesuai yang terdapat pada buku petunjuk proyek ini.
 
 ## Petunjuk Masukan
 
@@ -164,7 +164,7 @@ Dalam sistem persamaan linear, keluaran berupa bilangan imaginer terkadang akan 
 
 ### File _output_ yang disimpan
 
-File _output_ akan disimpan dalam folder [**Arsip Output**](../src/Arsip%20Output/) dengan ekstensi **.txt** sesuai dengan nama yang diberikan oleh pengguna dan diikuti dengan tanggal dan waktu untuk memastikan nama file adalah unik dan tidak terjadi duplikasi nama file.
+File _output_ akan disimpan dalam folder [**Arsip Output**](src/Arsip%20Output/) dengan ekstensi **.txt** sesuai dengan nama yang diberikan oleh pengguna dan diikuti dengan tanggal dan waktu untuk memastikan nama file adalah unik dan tidak terjadi duplikasi nama file.
 
 ## _Python Libraries_
 
