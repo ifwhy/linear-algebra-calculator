@@ -1,0 +1,5 @@
+print("Module ini terdiri dari tiga kelas, yaitu : ")
+print("1. Class Menu")
+print("2. Class Matriks")
+print("3. Class SistemPersamaan")
+print("Module ini berfungsi memudahkan dalam pengorganisasian main.py")

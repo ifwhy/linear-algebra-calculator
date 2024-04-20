@@ -1,0 +1,14 @@
+SISTEM PERSAMAAN LINEAR DENGAN METODE BALIKAN MATRIKS
+--------------------------------------------------
+Matriks Koefisien (Coef) : 
+╒════╤════╤═══╤════╤════╕
+│  1 │ -1 │ 0 │  0 │  1 │
+├────┼────┼───┼────┼────┤
+│  1 │  1 │ 0 │ -3 │  0 │
+├────┼────┼───┼────┼────┤
+│  2 │ -1 │ 0 │  1 │ -1 │
+├────┼────┼───┼────┼────┤
+│ -1 │  2 │ 0 │ -2 │ -1 │
+╘════╧════╧═══╧════╧════╛
+MATRIKS YANG ANDA BERIKAN BUKAN MATRIKS PERSEGI
+TIDAK DAPAT DISELESAIKAN MENGGUNKAN METODE INVERS--------------------------------------------------
